@@ -1,0 +1,54 @@
+
+
+[
+    {
+        "topics": "Introduction to Browser & web ",
+        "task": "https://docs.google.com/document/d/1QznT1zM4mI6dG0TODx5Xjs1GquMoSHO3xZ1USDnVM-w/edit?usp=sharing ",
+        "date": "01-oct-2020 "
+    },
+    {
+        "topics": "Request & Response cycle ",
+        "task": " https://docs.google.com/document/d/1QznT1zM4mI6dG0TODx5Xjs1GquMoSHO3xZ1USDnVM-w/edit?usp=sharing",
+        "date": "02-oct-2020 "
+    },
+    {
+        "topics": "JS array & objects ",
+        "task": " https://docs.google.com/document/d/1EIpyPItk5xMOQluX5m_cPD4KTI9AnkyqDlO26pbG4a8/edit?usp=sharing",
+        "date": "08-oct-2020 "
+    },
+    {
+        "topics": "HTML recap CSS ",
+        "task": " https://github.com/rvsp/html-CSS/",
+        "date": "12-oct-2020 "
+    },
+    {
+        "topics": " Responsive web design",
+        "task": "https://getbootstrap.com/docs/4.6/getting-started/introduction/ ",
+        "date": "13-oct-2020 "
+    },
+    {
+        "topics": "Promise fetch - request info & request init ",
+        "task": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch ",
+        "date": "24-oct-2020 "
+    },
+    {
+        "topics": " React hooks & states",
+        "task": " Rating according to value give Disable add to cart button when added to the card Remove item from cart & enable add to cart https://startbootstrap.com/previews/shop-homepage ",
+        "date": " 02-nov-2020"
+    },
+    {
+        "topics": "react router ",
+        "task": "https://www.npmjs.com/package/react-router-dom ",
+        "date": "03-nov-2020 "
+    },
+    {
+        "topics": "Database - MySQL and MONGODB",
+        "task": " https://dev.mysql.com/doc/",
+        "date": "11-nov-2020 "
+    },
+    {
+        "topics": "Database - MongoDB ",
+        "task": "https://github.com/rvsp/database/tree/master/mongodb",
+        "date": " 12-nov-2020"
+    }
+]

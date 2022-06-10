@@ -1,0 +1,66 @@
+[
+    {
+        "student_name": "vivek",
+        "appeared_for_drive": "yes",
+        "companies": [
+            {
+                "name": "wipro",
+                "date":"16_oct_2020"
+            },
+            {
+                "name": "infosys",
+                "date":"19_oct_2020"
+            },
+            {
+                "name": "TCS",
+                "date":"24_oct_2020"
+            }
+        ]
+    },
+    {
+        "student_name": "harish",
+        "appeared_for_drive": "yes",
+        "companies": [
+            {
+                "name": "cts",
+                "date":"16_oct_2020"
+            },
+            {
+                "name": "infosys",
+                "date":"19_oct_2020"
+            },
+            {
+                "name": "TCS",
+                "date":"24_oct_2020"
+            }
+        ]
+    },
+    {
+        "student_name": "vino",
+        "appeared_for_drive": "yes",
+        "companies": [
+            {
+                "name": "dropbox",
+                "date":"16_oct_2020"
+            },
+            {
+                "name": "secureworks",
+                "date":"19_oct_2020"
+            },
+            {
+                "name": "global logic",
+                "date":"24_oct_2020"
+            }
+        ]
+    },
+    {
+        "student_name": "tamil",
+        "appeared_for_drive": "no"
+       
+    },
+    {
+        "student_name": "thiru",
+        "appeared_for_drive": "no"
+     
+    }
+]
